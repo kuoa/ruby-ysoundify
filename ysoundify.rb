@@ -9,9 +9,3 @@ else
   sound = SoundGiraffe.new playlist
   sound.download
 end
-
-
-
-
-
-
